@@ -3,7 +3,7 @@ This is sample dashboard page , of distributor report. In this Distributor Repor
 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=flat-square&logo=powerbi)
-![SQL](https://img.shields.io/badge/Fbric-Database-blue?style=flat-square&logo=postgresql)
+![SQL](https://img.shields.io/badge/Fbric-Database-blue?style=flat-square&logo=MicrosoftFabric)
 
 ## 🧠 Overview
 
