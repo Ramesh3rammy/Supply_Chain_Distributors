@@ -3,7 +3,7 @@ This is sample dashboard page , of distributor report. In this Distributor Repor
 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=flat-square&logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=postgresql)
+![SQL]([https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=postgresql](https://cdn.plainconcepts.com/wp-content/uploads/2024/09/Microsoft-Fabric-and-Telcos.png))
 
 ## 🧠 Overview
 
@@ -26,7 +26,7 @@ Opportunity also is main to see last year he didnt purchased items will be shown
 ## 📸 Screenshots
 
 ### 🔹 Dashboard Page
-![Dashboard Page](images/Distributor Dashboard.jpg)
+![Dashboard Page](images/Distributor_Dashboard.jpg)
 
 
 ---
