@@ -29,8 +29,10 @@ Opportunity also is a main report to see last year what items they didnt purchas
 ![Distributor_Dashboard Page](images/Distributor_Dashboard.jpg)
 ### 🔹 Supplier Dashboard Page
 ![Supplier_Dashboard](images/Supplier_Dashboard.jpg)
----
+### 🔹Incetive Page
+![Incentives](images/Sample_Incentive.jpg)
 
+---
 ## 🛠️ Tools & Technologies Used
 
 - **Power BI** for report creation and data modeling.
