@@ -28,9 +28,9 @@ Opportunity also is a main report to see last year what items they didnt purchas
 ### 🔹 Distributor Dashboard Page
 ![Distributor_Dashboard Page](images/Distributor_Dashboard.jpg)
 ### 🔹 Supplier Dashboard Page
-![Supplier_Dashboard](images/Supplier_Dashboard.jpg)
+![Supplier_Dashboard](images/Supplier_Ddshboard.jpg)
 ### 🔹Incetive Page
-![Incentives](images/Sample_Incentive.jpg)
+![Incentives](images/Sample_incentive.jpg)
 
 ---
 ## 🛠️ Tools & Technologies Used
