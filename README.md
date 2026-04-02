@@ -16,9 +16,9 @@ This Supply Chain or Produce business Distributors buy intems from suppliers the
 
 Applied RLS , in this report , when ever a distributor loggied into the report they will be able to see there data only which strictly tied up and mainiting a RLS table in fabric DB.
 
-Distributor will know his doller amt spend on what all items in different pespective, supplier , contract , YoY, MoM, WoW, Ordered vs Shipped vs Spend analysis.
-Over shipped vs Shortage analaysis will be advantage for distribtor where he see shortage of orders delivery.
-Opportunity also is main to see last year he didnt purchased items will be shown so that distributor focuss on lost items.
+Distributor will know his dollar amt spend on what all items in different pespective, supplier , contract , YoY, MoM, WoW,Incentive, Ordered vs Shipped vs Spend analysis.
+Over shipped vs Shortage analaysis will be an advantage for distribtor where he see shortage of orders delivery.
+Opportunity also is a main report to see last year what items they didnt purchased will be shown so that distributor focuss on lost items.
 
 ---
 
