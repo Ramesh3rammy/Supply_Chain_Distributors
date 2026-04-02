@@ -25,10 +25,10 @@ Opportunity also is main to see last year he didnt purchased items will be shown
 
 ## 📸 Screenshots
 
-### 🔹 Dashboard Page
-![Dashboard Page](images/Distributor_Dashboard.jpg)
-
-
+### 🔹 Distributor Dashboard Page
+![Distributor_Dashboard Page](images/Distributor_Dashboard.jpg)
+### 🔹 Supplier Dashboard Page
+![Supplier_Dashboard](images/Supplier_Dashboard.jpg)
 ---
 
 ## 🛠️ Tools & Technologies Used
